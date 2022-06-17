@@ -3,7 +3,7 @@ import os
 import asyncio
 from random import randint
 from mutagen.mp3 import MP3
-
+import threading
 
 async def fetch(url: str) -> int:
     """
@@ -24,12 +24,23 @@ async def fetch(url: str) -> int:
     stream = stream.streams.filter(only_audio=True, file_extension='mp4')
     stream = sorted(stream, key=lambda stream: stream.filesize, reverse=True)
     stream = stream[0]
-    await asyncio.to_thread(stream.download)
-    os.rename(f"{stream.title}.mp4", f"{id}.mp4")
 
-    # convert audio file
-    await asyncio.to_thread(lambda: os.system(f'ffmpeg -i "{id}.mp4" "{id}.mp3" -hide_banner -loglevel error'))
-    os.remove(f"{id}.mp4")
+    # prevent main-thread-blocking by sending download+convert to new thread
+    def threaded():
+        # fetch youtube file
+        stream = pytube.YouTube(url)
+        stream = stream.streams.filter(only_audio=True, file_extension='mp4')
+        stream = sorted(stream, key=lambda stream: stream.filesize, reverse=True)
+        stream = stream[0]
+
+        # download file and convert to mp3
+        stream.download(filename=f"{id}.mp4")
+        os.system(f'ffmpeg -i "{id}.mp4" "{id}.mp3" -hide_banner -loglevel error')
+        os.remove(f"{id}.mp4")
+    thread = threading.Thread(target=threaded)
+    thread.start()
+    while thread.is_alive():
+        await asyncio.sleep(.15)
 
     # modify metadata of audio file (incomplete)
     audio = MP3(f"{id}.mp3")
