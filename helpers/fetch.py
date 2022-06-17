@@ -1,7 +1,5 @@
 import pytube
 import os
-import subprocess
-import threading
 import asyncio
 from random import randint
 from mutagen.mp3 import MP3
@@ -23,23 +21,17 @@ async def fetch(url: str) -> int:
 
     # fetch and download youtube .webm audio for given URL
     stream = pytube.YouTube(url)
-    stream = stream.streams.filter(only_audio=True, mime_type="audio/webm")
+    stream = stream.streams.filter(only_audio=True, file_extension='mp4')
     stream = sorted(stream, key=lambda stream: stream.filesize, reverse=True)
     stream = stream[0]
-    stream.download()
-    os.rename(f"{stream.title}.webm", f"{id}.webm")
+    await asyncio.to_thread(stream.download)
+    os.rename(f"{stream.title}.mp4", f"{id}.mp4")
 
     # convert audio file
-    def convert():
-        subprocess.run(
-            f'ffmpeg -i "{id}.webm" "{id}.mp3" -hide_banner -loglevel error'
-        )
-        os.remove(f"{id}.webm")
-    
-    conversion = threading.Thread(target=convert).start()
-    while conversion.is_alive():
-        await asyncio.sleep(.2)
+    await asyncio.to_thread(lambda: os.system(f'ffmpeg -i "{id}.mp4" "{id}.mp3" -hide_banner -loglevel error'))
+    os.remove(f"{id}.mp4")
 
+    # modify metadata of audio file (incomplete)
     audio = MP3(f"{id}.mp3")
     print(audio.info.length)
     print(audio.info.bitrate)
