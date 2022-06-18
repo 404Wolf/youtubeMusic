@@ -1,19 +1,18 @@
 import helpers
 import asyncio
 
-videos = [
-    "https://www.youtube.com/watch?v=EwXsiXTzXLk",
-    "https://www.youtube.com/watch?v=c96uOVJk-8g",
-    # "https://www.youtube.com/watch?v=WPs67ap6AeY",
-    # "https://www.youtube.com/watch?v=kG5LCoRqGSI",
-    # "https://www.youtube.com/watch?v=x0NDkRxG0-8",
-    # "https://www.youtube.com/watch?v=QvqjVCWT_4g",
-]
+# the beatles' White Album playlist (posted by the official beatles channel)
+beatlesWhiteAlbum = (
+    "https://www.youtube.com/playlist?list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI"
+)
 
 
 async def main():
-    tasks = [asyncio.create_task(helpers.fetch(video)) for video in videos]
-    await asyncio.gather(*tasks)
+    videos = await helpers.locate.playlist(beatlesWhiteAlbum)
+    tasks = []
+    for url in videos:
+        tasks.append(asyncio.create_task(helpers.download(url)))
+    tasks = await asyncio.gather(*tasks)
 
 
 asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())

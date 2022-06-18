@@ -1,10 +1,11 @@
+from distutils import extension
 import pytube
 import os
 import asyncio
 from random import randint
 
 
-async def fetch(url: str, filetype="mp3", filename=randint(1000000, 9999999)) -> int:
+async def download(url: str, filetype="wav", filename=False) -> int:
     """
     Download audio of youtube video and automaticaly inject metadata.
 
@@ -17,24 +18,31 @@ async def fetch(url: str, filetype="mp3", filename=randint(1000000, 9999999)) ->
         filename of downloaded file. (name of file = "{filename}.mp4")
     """
 
+    if not bool(filename):
+        filename=randint(1000000, 9999999)
+
     def threaded():
         """Download and convert youtube file. This function is blocking."""
 
         # fetch youtube file
         stream = pytube.YouTube(url)
-        stream = stream.streams.filter(only_audio=True, file_extension="mp4")
-        stream = sorted(stream, key=lambda stream: stream.filesize, reverse=True)
+        stream = stream.streams.filter(only_audio=True)
+        
+        # sort out highest quality audio stream
+        stream = sorted(stream, key=lambda stream: stream.bitrate, reverse=True)
         stream = stream[0]
+        stream.type = stream.mime_type.split("/")[1]
 
         # download youtube file
-        stream.download(filename=f"{filename}.mp4")
+        stream.download(filename=f"{filename}.{stream.type}")
 
         # mp4 -> mp3
         os.system(
-            f'ffmpeg -i "{filename}.mp4" -c:v libx264 -qp 0 "{filename}.{filetype}" -hide_banner -loglevel error'
+            f'ffmpeg -i "{filename}.{stream.type}" "{filename}.{filetype}" -hide_banner -loglevel error'
         )
 
-    await asyncio.to_thread(threaded)
-    os.remove(f"{filename}.mp4")  # remove unconverted mp4
+        # remove unconverted format
+        os.remove(f"{filename}.{stream.type}")  # remove unconverted mp4
 
+    await asyncio.to_thread(threaded)
     return filename
