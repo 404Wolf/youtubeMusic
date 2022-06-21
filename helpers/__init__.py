@@ -1,2 +1,2 @@
-from helpers.fetch import download
+from helpers.data import download
 import helpers.locate
