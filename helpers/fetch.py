@@ -1,25 +1,21 @@
-from distutils import extension
 import pytube
 import os
 import asyncio
 from random import randint
+from sanitize_filename import sanitize
 
 
-async def download(url: str, filetype="wav", filename=False) -> int:
+async def download(url: str, folder, filetype="mp3") -> int:
     """
     Download audio of youtube video and automaticaly inject metadata.
 
     Args:
         url (str): URL of video to download.
         filetype (str, optional): output filetype (file extention).
-        filename (str, optional): name of output file.
 
     Returns:
         filename of downloaded file. (name of file = "{filename}.mp4")
     """
-
-    if not bool(filename):
-        filename=randint(1000000, 9999999)
 
     def threaded():
         """Download and convert youtube file. This function is blocking."""
@@ -27,11 +23,12 @@ async def download(url: str, filetype="wav", filename=False) -> int:
         # fetch youtube file
         stream = pytube.YouTube(url)
         stream = stream.streams.filter(only_audio=True)
-        
+
         # sort out highest quality audio stream
         stream = sorted(stream, key=lambda stream: stream.bitrate, reverse=True)
         stream = stream[0]
         stream.type = stream.mime_type.split("/")[1]
+        filename = sanitize(stream.title)
 
         # download youtube file
         stream.download(filename=f"{filename}.{stream.type}")
@@ -43,6 +40,6 @@ async def download(url: str, filetype="wav", filename=False) -> int:
 
         # remove unconverted format
         os.remove(f"{filename}.{stream.type}")  # remove unconverted mp4
+        os.rename(f"{filename}.{filetype}", f"{folder}/{filename}.{filetype}")
 
     await asyncio.to_thread(threaded)
-    return filename

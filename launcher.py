@@ -1,18 +1,19 @@
-import helpers
 import asyncio
+from ui import mainWindow
+from PyQt6.QtWidgets import QApplication
+import helpers
 
-# the beatles' White Album playlist (posted by the official beatles channel)
-beatlesWhiteAlbum = (
-    "https://www.youtube.com/playlist?list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI"
-)
+
+# app = QApplication([]) # sys.argv if command line use is needed
+# window = mainWindow()
+# window.show()
+
+# app.exec()
 
 
 async def main():
-    videos = await helpers.locate.playlist(beatlesWhiteAlbum)
-    tasks = []
-    for url in videos:
-        tasks.append(asyncio.create_task(helpers.download(url)))
-    tasks = await asyncio.gather(*tasks)
+    data = await helpers.locate.metadata(input("Enter search query: "))
+    print(data)
 
 
 asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())

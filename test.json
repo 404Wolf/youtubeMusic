@@ -1,0 +1,4731 @@
+{
+   "http://dbpedia.org/resource/The_Beatles": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/George_Harrison": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Parent_Trap_(1998_film)": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/KEGL": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/A_Monstrous_Psychedelic_Bubble_Exploding_in_Your_Mind:_Volume_3": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Oh!_Darling": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Bangla_Desh_(song)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Face_to_Face:_A_Live_Recording": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Live_in_Japan_(George_Harrison_album)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Radio_M.U.S.C._Man": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://en.wikipedia.org/wiki/Here_Comes_the_Sun": {
+      "http://xmlns.com/foaf/0.1/primaryTopic": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Apple_Records_discography": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Saturday_Night_Live_(season_2)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_George_Benson_Collection": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Sandie_Shaw": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Crosby,_Stills,_Nash_&_Young_discography": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Within_You_Without_You": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Let_It_Roll:_Songs_by_George_Harrison": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/1969_in_British_music": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/A_Symphony_of_British_Music_(album)": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Gleb_Savchenko": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Holiday_(TV_series)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Here_Comes_the_Sun": {
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/class/yago/Music107020895"
+         },
+         {
+            "type": "uri",
+            "value": "http://www.w3.org/2002/07/owl#Thing"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/Song"
+         },
+         {
+            "type": "uri",
+            "value": "http://schema.org/CreativeWork"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/class/yago/Recording104063661"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/class/yago/WikicatWeFiveSongs"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/class/yago/MusicalComposition107037465"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/class/yago/Song107048000"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/class/yago/Communication100033020"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/class/yago/AuditoryCommunication107109019"
+         },
+         {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q386724"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/class/yago/WikicatRockSongs"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/class/yago/WikicatNinaSimoneSongs"
+         },
+         {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q2188189"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/Album"
+         },
+         {
+            "type": "uri",
+            "value": "http://schema.org/MusicRecording"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/class/yago/Abstraction100002137"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/MusicalWork"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/class/yago/Wikicat1969Songs"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/class/yago/Signal106791372"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/Work"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/class/yago/WikicatPopSongs"
+         },
+         {
+            "type": "uri",
+            "value": "http://umbel.org/umbel/rc/MusicalComposition_Song"
+         },
+         {
+            "type": "uri",
+            "value": "http://umbel.org/umbel/rc/MusicalComposition"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/Single"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/class/yago/WikicatSongRecordingsProducedByGeorgeMartin"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/class/yago/WikicatTheBeatlesSongs"
+         }
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#label": [
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun",
+            "lang": "pl"
+         },
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun",
+            "lang": "fr"
+         },
+         {
+            "type": "literal",
+            "value": "\u0647\u0627 \u0642\u062f \u0623\u0634\u0631\u0642\u062a \u0627\u0644\u0634\u0645\u0633",
+            "lang": "ar"
+         },
+         {
+            "type": "literal",
+            "value": "\u30d2\u30a2\u30fb\u30ab\u30e0\u30ba\u30fb\u30b6\u30fb\u30b5\u30f3",
+            "lang": "ja"
+         },
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun",
+            "lang": "sv"
+         },
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun",
+            "lang": "cs"
+         },
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun",
+            "lang": "pt"
+         },
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun",
+            "lang": "nl"
+         },
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun",
+            "lang": "es"
+         },
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun",
+            "lang": "en"
+         },
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun",
+            "lang": "zh"
+         },
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun",
+            "lang": "uk"
+         },
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun",
+            "lang": "de"
+         },
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun",
+            "lang": "ko"
+         },
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun",
+            "lang": "ru"
+         },
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun",
+            "lang": "in"
+         },
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun",
+            "lang": "it"
+         }
+      ],
+      "http://www.w3.org/2000/01/rdf-schema#comment": [
+         {
+            "type": "literal",
+            "value": "\u300c\u30d2\u30a2\u30fb\u30ab\u30e0\u30ba\u30fb\u30b6\u30fb\u30b5\u30f3\u300d\uff08Here Comes the Sun\uff09\u306f\u3001\u30d3\u30fc\u30c8\u30eb\u30ba\u306e\u697d\u66f2\u3067\u3042\u308b\u3002\u30b8\u30e7\u30fc\u30b8\u30fb\u30cf\u30ea\u30b9\u30f3\u304c\u4f5c\u8a5e\u4f5c\u66f2\u3092\u624b\u304c\u3051\u305f\u30021969\u5e74\u306b\u767a\u58f2\u3055\u308c\u305f11\u4f5c\u76ee\u306e\u30a4\u30ae\u30ea\u30b9\u76e4\u516c\u5f0f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30a2\u30eb\u30d0\u30e0\u300e\u30a2\u30d3\u30a4\u30fb\u30ed\u30fc\u30c9\u300f\u306b\u53ce\u9332\u3055\u308c\u305f\u3002\u30cf\u30ea\u30b9\u30f3\u306f\u30011969\u5e74\u521d\u982d\u306b\u30a2\u30c3\u30d7\u30eb\u30fb\u30ec\u30b3\u30fc\u30c9\u306e\u6253\u3061\u5408\u308f\u305b\u3092\u30ad\u30e3\u30f3\u30bb\u30eb\u3057\u3066\u3001\u53cb\u4eba\u306e\u30a8\u30ea\u30c3\u30af\u30fb\u30af\u30e9\u30d7\u30c8\u30f3\u306e\u81ea\u5b85\u306b\u8a2a\u308c\u305f\u969b\u306b\u672c\u4f5c\u3092\u66f8\u3044\u305f\u3002\u6b4c\u8a5e\u306e\u4e2d\u3067\u306f\u6625\u306e\u5230\u6765\u306b\u3088\u308b\u5b89\u5835\u306a\u3069\u304c\u53cd\u6620\u3055\u308c\u3066\u3044\u308b\u3002 1969\u5e74\u590f\u306bEMI\u30b9\u30bf\u30b8\u30aa\u3067\u30ec\u30b3\u30fc\u30c7\u30a3\u30f3\u30b0\u304c\u884c\u308f\u308c\u305f\u3002\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30ae\u30bf\u30fc\u3092\u4e3b\u4f53\u3068\u3057\u305f\u672c\u4f5c\u3067\u306f\u3001\u5f53\u6642\u306f\u73cd\u3057\u304b\u3063\u305f\u30e2\u30fc\u30b0\u30fb\u30b7\u30f3\u30bb\u30b5\u30a4\u30b6\u30fc\u304c\u5c0e\u5165\u3055\u308c\u3066\u3044\u308b\u307b\u304b\u3001\u30a4\u30f3\u30c9\u306e\u4f1d\u7d71\u97f3\u697d\u306e\u5f71\u97ff\u304c\u3044\u304f\u3064\u304b\u898b\u3089\u308c\u308b\u3002 \u300c\u30d2\u30a2\u30fb\u30ab\u30e0\u30ba\u30fb\u30b6\u30fb\u30b5\u30f3\u300d\u306f\u3001\u97f3\u697d\u8a55\u8ad6\u5bb6\u304b\u3089\u80af\u5b9a\u7684\u306a\u8a55\u4fa1\u3092\u5f97\u3066\u304a\u308a\u3001\u300c\u30db\u30ef\u30a4\u30eb\u30fb\u30de\u30a4\u30fb\u30ae\u30bf\u30fc\u30fb\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9\u300d\u3084\u300c\u30b5\u30e0\u30b7\u30f3\u30b0\u300d\u3068\u3068\u3082\u306b\u3001\u30cf\u30ea\u30b9\u30f3\u304c\u30ec\u30ce\u30f3\uff1d\u30de\u30c3\u30ab\u30fc\u30c8\u30cb\u30fc\u306e\u4f5c\u54c1\u3068\u540c\u7b49\u306e\u8a55\u4fa1\u3092\u5f97\u305f\u697d\u66f2\u3068\u306a\u3063\u3066\u3044\u308b\u3002\u697d\u66f2\u306e\u767a\u8868\u5f8c\u3001\u30ea\u30c3\u30c1\u30fc\u30fb\u30d8\u30d6\u30f3\u30b9\u3084\u30b9\u30c6\u30a3\u30fc\u30f4\u30fb\u30cf\u30fc\u30ec\u30a4&\u30b3\u30c3\u30af\u30cb\u30fc\u30fb\u30ec\u30d9\u30eb\u3092\u306f\u3058\u3081\u3068\u3057\u305f\u591a\u6570\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306b\u3088\u3063\u3066\u30ab\u30d0\u30fc\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3\u304c\u767a\u58f2\u3055\u308c\u305f\u3002 2021\u5e74\u6642\u70b9\u3067\u3001Spotify\u306b\u3066\u4e16\u754c\u3067\u6700\u3082\u30b9\u30c8\u30ea\u30fc\u30df\u30f3\u30b0\u518d\u751f\u3055\u308c\u305f\u30d3\u30fc\u30c8\u30eb\u30ba\u306e\u697d\u66f2\u3068\u306a\u3063\u3066\u3044\u308b\u3002",
+            "lang": "ja"
+         },
+         {
+            "type": "literal",
+            "value": "\u0647\u0627 \u0642\u062f \u0623\u0634\u0631\u0642\u062a \u0627\u0644\u0634\u0645\u0633 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Here comes the sun)\u200f. \u0623\u063a\u0646\u064a\u0629 \u0644\u0641\u0631\u0642\u0629 \u0627\u0644\u0628\u064a\u062a\u0644\u0632 \u0627\u0644\u0628\u0631\u064a\u0637\u0627\u0646\u064a\u0629. \u062a\u0639\u062a\u0628\u0631 \u0645\u0646 \u0623\u0634\u0647\u0631 \u0623\u063a\u0627\u0646\u064a \u0641\u0631\u0642\u0629 \u0627\u0644\u0628\u064a\u062a\u0644\u0632 \u0648\u0635\u062f\u0631\u062a \u0641\u064a \u0622\u062e\u0631 \u0623\u0644\u0628\u0648\u0645 \u0648\u0627\u0644\u0630\u064a \u0643\u0627\u0646 \u0628\u0639\u0646\u0648\u0627\u0646 Abbey Road \u0648\u0635\u062f\u0631 \u0639\u0627\u0645 1969.",
+            "lang": "ar"
+         },
+         {
+            "type": "literal",
+            "value": "\u3008Here Comes the Sun\u3009\uc740 1969\ub144 \ube44\ud2c0\uc988\uc758 \uc74c\ubc18 \u300aAbbey Road\u300b\uc5d0\uc11c \ucc98\uc74c \ubc1c\ub9e4\ub41c \uc870\uc9c0 \ud574\ub9ac\uc2a8\uc774 \uc4f4 \ub178\ub798\uc774\ub2e4. \u3008Something\u3009\uacfc \u3008While My Guitar Gently Weeps\u3009\uc640 \ud568\uaed8, \uadf8\uac83\uc740 \ube44\ud2c0\uc988 \uc2dc\ub300\uc758 \ud574\ub9ac\uc2a8\uc758 \uac00\uc7a5 \uc720\uba85\ud55c \uc791\ud488 \uc911 \ud558\ub098\uc774\ub2e4. \uc774 \uace1\uc740 \ud574\ub9ac\uc2a8\uc774 \ube44\ud2c0\uc988\uc758 \uc560\ud50c \ucf54\uc5b4\uc5d0\uc11c \uc5f4\ub9ac\ub294 \ud68c\uc758\uc5d0 \ucc38\uc11d\ud558\uc9c0 \uc54a\uae30 \uc704\ud574 \uadf8\ub0a0 \ubb34\ub2e8 \uacb0\uc11d\uc744 \ud55c \uce5c\uad6c \uc5d0\ub9ad \ud074\ub7a9\ud2bc\uc758 \uc2dc\uace8 \uc9d1\uc5d0\uc11c \uc791\uace1\ub418\uc5c8\ub2e4. \uac00\uc0ac\ub294 \ubd04\uc758 \ub3c4\ucc29\uacfc \uadf8\uac00 \ubc34\ub4dc\uc758 \uc0ac\uc5c5 \ubb38\uc81c\ub85c \uacaa\uc5c8\ub358 \uc77c\uc2dc\uc801 \ud734\uc2dd\uacfc \uc548\ub3c4\uac10\uc744 \ubc18\uc601\ud55c\ub2e4. 2019\ub144 9\uc6d4 \ud604\uc7ac \uc804 \uc138\uacc4\uc5d0\uc11c \uac00\uc7a5 \ub9ce\uc774 \uc2a4\ud2b8\ub9ac\ubc0d\ub41c \ube44\ud2c0\uc988 \uace1\uc73c\ub85c 3\uc5b5 5\ucc9c\ub9cc \uace1\uc774 \ub118\ub294\ub2e4. \ube44\ud2c0\uc988\ub294 1969\ub144 \uc5ec\ub984\uc5d0 \ub7f0\ub358\uc758 EMI \uc2a4\ud29c\ub514\uc624\uc5d0\uc11c \u3008Here Comes the Sun\u3009\ub97c \ub179\uc74c\ud588\ub2e4. \ud574\ub9ac\uc2a8\uc758 \uc5b4\ucfe0\uc2a4\ud2f1 \uae30\ud0c0\uac00 \uc774\ub044\ub294 \uc774 \ub179\uc74c\uc5d0\ub294 \uce98\ub9ac\ud3ec\ub2c8\uc544\uc5d0\uc11c \uc545\uae30\uc758 \ucd08\uae30 \ubaa8\ub378\uc744 \uad6c\uc785\ud55c \ud6c4 \ube44\ud2c0\uc988 \uc0ac\uc6b4\ub4dc\uc5d0 \ub3c4\uc785\ud55c \ubaa8\uadf8 \uc2e0\uc2dc\uc0ac\uc774\uc800\ub3c4 \ud3ec\ud568\ub418\uc5b4 \uc788\ub2e4. \ud574\ub9ac\uc2a8\uc758 \uae00\uc5d0 \ub300\ud55c \uc778\ub3c4 \uace0\uc804 \uc74c\uc545\uc758 \uacc4\uc18d\ub418\ub294 \uc601\ud5a5\uc744 \ubc18\uc601\ud558\uc5ec, \uc774 \uc791\uace1\uc5d0\ub294 \uc77c\ub828\uc758 \ud2b9\uc774\ud55c \uc2dc\uac04 \ubcc0\ud654\uac00 \ud3ec\ud568\ub418\uc5b4 \uc788\ub2e4.",
+            "lang": "ko"
+         },
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun \u00e9 uma can\u00e7\u00e3o dos Beatles composta por George Harrison, que foi lan\u00e7ada no \u00e1lbum Abbey Road de 1969. A grava\u00e7\u00e3o teve in\u00edcio em 7 de julho de 1969 e foi conclu\u00edda em 19 de agosto de 1969. Sua dura\u00e7\u00e3o \u00e9 de 3\u201906\". Segundo George, foi \"composta numa manh\u00e3 ensolarada\" na mans\u00e3o de Eric Clapton. Como em \"If I Needed Someone\", outra composi\u00e7\u00e3o dele, um solo de guitarra soa durante toda a m\u00fasica. \u00c9 uma das can\u00e7\u00f5es mais famosas e regravadas dos Beatles, j\u00e1 ganhando at\u00e9 vers\u00e3o orquestrada de flautas.",
+            "lang": "pt"
+         },
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun je p\u00edse\u0148 britsk\u00e9 kapely The Beatles napsan\u00e1 Georgem Harrisonem na albu Abbey Road z roku 1969. \u201eHere Comes the Sun\u201c je vedle \u201eSomething\u201c a \u201eWhile My Guitar Gently Weeps\u201c jednou z nejzn\u00e1m\u011bj\u0161\u00edch skladeb, kterou Harrison slo\u017eil b\u011bhem p\u016fsoben\u00ed v Beatles. Rok 1969 byl pro Harrisona velice obt\u00ed\u017en\u00fd. Na\u010das opustil skupinu, byl zadr\u017een za dr\u017een\u00ed marihuany a byla mu provedena tonzilektomie. To v\u0161e spole\u010dn\u011b s neust\u00e1l\u00fdmi z\u00e1le\u017eitostmi ohledn\u011b vydavatelstv\u00ed vedlo k tomu, \u017ee Harrison nav\u0161t\u00edvil sv\u00e9ho p\u0159\u00edtele Erica Claptona a v jeho zahrad\u011b napsal pr\u00e1v\u011b \u201eHere Comes the Sun\u201c.",
+            "lang": "cs"
+         },
+         {
+            "type": "literal",
+            "value": "\u300aHere Comes the Sun\u300b\u662f\u7531\u82f1\u570b\u6416\u6efe\u6a02\u5718\u62ab\u982d\u56db\u6210\u54e1\u55ac\u6cbb\u00b7\u54c8\u91cc\u68ee\u5275\u4f5c\u3001\u6536\u9304\u65bc\u5c08\u8f2f\u300a\u827e\u6bd4\u8def\u300b\u76841969\u5e74\u6b4c\u66f2\u3002",
+            "lang": "zh"
+         },
+         {
+            "type": "literal",
+            "value": "\u00abHere Comes the Sun\u00bb (\"\u0410 \u0432\u043e\u0442 \u0438 \u0441\u043e\u043b\u043d\u0446\u0435\") \u2014 \u043f\u0435\u0441\u043d\u044f \u0414\u0436\u043e\u0440\u0434\u0436\u0430 \u0425\u0430\u0440\u0440\u0438\u0441\u043e\u043d\u0430 \u0441 \u0430\u043b\u044c\u0431\u043e\u043c\u0430 The Beatles 1969 \u0433\u043e\u0434\u0430 Abbey Road. \u041e\u0434\u043d\u0430 \u0438\u0437 \u0441\u0430\u043c\u044b\u0445 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0445 \u043f\u0435\u0441\u0435\u043d \u0425\u0430\u0440\u0440\u0438\u0441\u043e\u043d\u0430, \u0437\u0430\u043f\u0438\u0441\u0430\u043d\u043d\u0430\u044f \u0432 \u0441\u043e\u0441\u0442\u0430\u0432\u0435 The Beatles.",
+            "lang": "ru"
+         },
+         {
+            "type": "literal",
+            "value": "\u00abHere Comes the Sun\u00bb es una canci\u00f3n de la banda brit\u00e1nica de rock, The Beatles, escrita por George Harrison para el \u00e1lbum Abbey Road de 1969. Esta canci\u00f3n, junto a \u00abSomething\u00bb, es una de las m\u00e1s exitosas de las hechas por Harrison, y ambas fueron grabadas para el \u00e1lbum Abbey Road.\u200b Tuvo su g\u00e9nesis dentro de su estrecha amistad con Eric Clapton, ya que el riff y el puente de esta canci\u00f3n son similares a los de una colaboraci\u00f3n que Harrison realiz\u00f3 para el grupo Cream llamada \"Badge\". Adem\u00e1s, esta canci\u00f3n conten\u00eda un solo de guitarra que fue descartado en la mezcla final que apareci\u00f3 en Abbey Road.\u200b",
+            "lang": "es"
+         },
+         {
+            "type": "literal",
+            "value": "\"Here Comes the Sun\" adalah lagu yang ditulis oleh George Harrison untuk album The Beatles tahun 1969, Abbey Road.",
+            "lang": "in"
+         },
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun \u2013 utw\u00f3r brytyjskiego zespo\u0142u The Beatles z albumu Abbey Road napisany przez George\u2019a Harrisona.",
+            "lang": "pl"
+         },
+         {
+            "type": "literal",
+            "value": "\"Here Comes the Sun\" \u00e4r en l\u00e5t skriven av George Harrison och framf\u00f6rd av den brittiska rockgruppen The Beatles. Den finns med p\u00e5 albumet Abbey Road som kom ut 1969. \"Here Comes the Sun\" gavs ut som singel den 26 september 1969.",
+            "lang": "sv"
+         },
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun is een lied geschreven door George Harrison van The Beatles. Here Comes the Sun verscheen in september 1969 op het album Abbey Road. Op 26 september van dat jaar werd het nummer op single uitgebracht. Destijds werd in Nederland de plaat regelmatig gedraaid op Radio Veronica, Radio Mi Amigo, Radio Caroline en Hilversum 3, maar bereikte desondanks de Nederlandse Top 40 en de Hilversum 3 Top 30 niet. In Belgi\u00eb behaalde de plaat g\u00e9\u00e9n notering in de Vlaamse Ultratop 50.",
+            "lang": "nl"
+         },
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun est une chanson des Beatles. Elle a \u00e9t\u00e9 \u00e9crite par George Harrison et ouvre la face B du 33 tours original de l\u2019album Abbey Road sorti en 1969. Il s'agit d'une de ses compositions les plus connues au sein des Beatles. Harrison \u00e9crit la chanson au d\u00e9but de l'ann\u00e9e 1969 dans la maison de campagne de son ami Eric Clapton, o\u00f9 il se trouve apr\u00e8s avoir d\u00e9cid\u00e9 d'\u00e9chapper \u00e0 une r\u00e9union d'affaires de Apple Corps. Les paroles de la chanson refl\u00e8tent son soulagement \u00e0 l'arriv\u00e9e du printemps et le r\u00e9pit temporaire qu'il s'accorde loin des affaires du groupe. En septembre 2019, c'est la chanson des Beatles et des ann\u00e9es 1960 la plus diffus\u00e9e en streaming au Royaume-Uni, avec plus de 50 millions d'\u00e9coutes.",
+            "lang": "fr"
+         },
+         {
+            "type": "literal",
+            "value": "\u00abHere Comes the Sun\u00bb (\u0430\u043d\u0433\u043b. \u00ab\u041e\u0441\u044c \u0441\u0445\u043e\u0434\u0438\u0442\u044c \u0441\u043e\u043d\u0446\u0435\u00bb) \u2014 \u043f\u0456\u0441\u043d\u044f \u0414\u0436\u043e\u0440\u0434\u0436\u0430 \u0413\u0430\u0440\u0440\u0456\u0441\u043e\u043d\u0430 \u0437 \u0430\u043b\u044c\u0431\u043e\u043c\u0443 The Beatles 1969 \u0440\u043e\u043a\u0443 \u00abAbbey Road\u00bb.",
+            "lang": "uk"
+         },
+         {
+            "type": "literal",
+            "value": "\"Here Comes the Sun\" is a song by the English rock band the Beatles from their 1969 album Abbey Road. It was written by George Harrison and is one of his best-known compositions. Harrison wrote the song in early 1969 at the country house of his friend Eric Clapton, where Harrison had chosen to play truant for the day to avoid attending a meeting at the Beatles' Apple Corps organisation. The lyrics reflect his relief at the arrival of spring and the temporary respite he was experiencing from the band's business affairs.",
+            "lang": "en"
+         },
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun (englisch f\u00fcr \u201eHier kommt die Sonne\u201c) ist ein Lied der britischen Band The Beatles, das von George Harrison komponiert wurde. Es wurde am 26. September 1969 auf dem Album Abbey Road ver\u00f6ffentlicht. Das St\u00fcck z\u00e4hlt neben Something und My Sweet Lord zu Harrisons bekanntesten Werken.",
+            "lang": "de"
+         }
+      ],
+      "http://xmlns.com/foaf/0.1/name": [
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun",
+            "lang": "en"
+         }
+      ],
+      "http://xmlns.com/foaf/0.1/homepage": [
+         {
+            "type": "uri",
+            "value": "http://www.thebeatles.com/song/here-comes-sun"
+         }
+      ],
+      "http://xmlns.com/foaf/0.1/depiction": [
+         {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/George-Harrison-playing_(tall_crop).jpg"
+         },
+         {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Richie_Havens_1972_Hamburg.jpg"
+         },
+         {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Moog_Synthesizer_3P_(1972),_CRuNCh_Lab.jpg"
+         },
+         {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Thebeatles_here_comes_the_sun.jpg"
+         },
+         {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve_Harley_&_Cockney_Rebel_Here_Comes_the_Sun_1976_Single.jpg"
+         },
+         {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Ewhurst_mill.jpg"
+         }
+      ],
+      "http://purl.org/dc/terms/subject": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Song_recordings_produced_by_George_Martin"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:The_Beatles_songs"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Steve_Harley_songs"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Songs_written_by_George_Harrison"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:George_Harrison_songs"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Music_published_by_Harrisongs"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Songs_about_happiness"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Songs_composed_in_A_major"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:EMI_Records_singles"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Ghost_(Swedish_band)_songs"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:1969_songs"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:1970_singles"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Songs_about_weather"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:1976_singles"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:1971_singles"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Nina_Simone_songs"
+         }
+      ],
+      "http://www.w3.org/2002/07/owl#sameAs": [
+         {
+            "type": "uri",
+            "value": "http://ka.dbpedia.org/resource/Here_Comes_the_Sun"
+         },
+         {
+            "type": "uri",
+            "value": "http://tr.dbpedia.org/resource/Here_Comes_the_Sun"
+         },
+         {
+            "type": "uri",
+            "value": "http://vi.dbpedia.org/resource/Here_Comes_the_Sun"
+         },
+         {
+            "type": "uri",
+            "value": "http://pl.dbpedia.org/resource/Here_Comes_the_Sun"
+         },
+         {
+            "type": "uri",
+            "value": "http://rdf.freebase.com/ns/m.04t76g"
+         },
+         {
+            "type": "uri",
+            "value": "http://id.dbpedia.org/resource/Here_Comes_the_Sun"
+         },
+         {
+            "type": "uri",
+            "value": "http://zh.dbpedia.org/resource/Here_Comes_the_Sun"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         },
+         {
+            "type": "uri",
+            "value": "http://fi.dbpedia.org/resource/Here_Comes_the_Sun"
+         },
+         {
+            "type": "uri",
+            "value": "http://cs.dbpedia.org/resource/Here_Comes_the_Sun"
+         },
+         {
+            "type": "uri",
+            "value": "http://www.wikidata.org/entity/Q210401"
+         },
+         {
+            "type": "uri",
+            "value": "http://he.dbpedia.org/resource/Here_Comes_the_Sun"
+         },
+         {
+            "type": "uri",
+            "value": "http://it.dbpedia.org/resource/Here_Comes_the_Sun"
+         },
+         {
+            "type": "uri",
+            "value": "http://nl.dbpedia.org/resource/Here_Comes_the_Sun"
+         },
+         {
+            "type": "uri",
+            "value": "http://de.dbpedia.org/resource/Here_Comes_the_Sun"
+         },
+         {
+            "type": "uri",
+            "value": "http://yago-knowledge.org/resource/Here_Comes_the_Sun"
+         },
+         {
+            "type": "uri",
+            "value": "https://global.dbpedia.org/id/zjPj"
+         },
+         {
+            "type": "uri",
+            "value": "http://no.dbpedia.org/resource/Here_Comes_the_Sun"
+         },
+         {
+            "type": "uri",
+            "value": "http://ar.dbpedia.org/resource/\u0647\u0627_\u0642\u062f_\u0623\u0634\u0631\u0642\u062a_\u0627\u0644\u0634\u0645\u0633"
+         },
+         {
+            "type": "uri",
+            "value": "http://ko.dbpedia.org/resource/Here_Comes_the_Sun"
+         },
+         {
+            "type": "uri",
+            "value": "http://uk.dbpedia.org/resource/Here_Comes_the_Sun"
+         },
+         {
+            "type": "uri",
+            "value": "http://musicbrainz.org/work/8549de8e-f65b-3e64-b8a2-08c90cc5fdd1"
+         },
+         {
+            "type": "uri",
+            "value": "http://es.dbpedia.org/resource/Here_Comes_the_Sun"
+         },
+         {
+            "type": "uri",
+            "value": "http://nn.dbpedia.org/resource/Here_Comes_the_Sun"
+         },
+         {
+            "type": "uri",
+            "value": "http://ru.dbpedia.org/resource/Here_Comes_the_Sun"
+         },
+         {
+            "type": "uri",
+            "value": "http://sv.dbpedia.org/resource/Here_Comes_the_Sun"
+         },
+         {
+            "type": "uri",
+            "value": "http://pt.dbpedia.org/resource/Here_Comes_the_Sun"
+         },
+         {
+            "type": "uri",
+            "value": "http://ja.dbpedia.org/resource/\u30d2\u30a2\u30fb\u30ab\u30e0\u30ba\u30fb\u30b6\u30fb\u30b5\u30f3"
+         },
+         {
+            "type": "uri",
+            "value": "http://fr.dbpedia.org/resource/Here_Comes_the_Sun"
+         },
+         {
+            "type": "uri",
+            "value": "http://simple.dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://purl.org/linguistics/gold/hypernym": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Song"
+         }
+      ],
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun",
+            "lang": "en"
+         }
+      ],
+      "http://dbpedia.org/property/id": [
+         {
+            "type": "literal",
+            "value": 9613,
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+         },
+         {
+            "type": "literal",
+            "value": 13974,
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+         }
+      ],
+      "http://dbpedia.org/property/writer": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/George_Harrison"
+         }
+      ],
+      "http://dbpedia.org/ontology/recordLabel": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Apple_Records"
+         }
+      ],
+      "http://dbpedia.org/property/label": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/EMI_Records"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Apple_Records"
+         }
+      ],
+      "http://dbpedia.org/ontology/genre": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Folk-pop"
+         }
+      ],
+      "http://dbpedia.org/property/genre": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Rock_music"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Folk-pop"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Pop_music"
+         }
+      ],
+      "http://dbpedia.org/ontology/writer": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/George_Harrison"
+         }
+      ],
+      "http://dbpedia.org/ontology/producer": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/George_Martin"
+         }
+      ],
+      "http://www.w3.org/ns/prov#wasDerivedFrom": [
+         {
+            "type": "uri",
+            "value": "http://en.wikipedia.org/wiki/Here_Comes_the_Sun?oldid=1074005429&ns=0"
+         }
+      ],
+      "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+         {
+            "type": "uri",
+            "value": "http://en.wikipedia.org/wiki/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/property/wikiPageUsesTemplate": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:Cite_book"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:Clear"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:The_Beatles_singles"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:Refbegin"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:Refend"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:TOC_limit"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:About"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:Quote"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:YouTube"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:Sfn"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:Use_British_English"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:Start_date"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:SfnRef"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:Wikiquote"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:'"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:Steve_Harley"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:Short_description"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:Snd"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:External_music_video"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:Singlechart"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:Music"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:Abbey_Road"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:Authority_control"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:Reflist"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:Duration"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:Refn"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:Audio_sample"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:Cn"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:Certification_Table_Entry"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:Certification_Table_Bottom"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:Certification_Table_Top"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Template:Infobox_song"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Coldplay"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/1972_Jamaican_general_election"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nina_Simone"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Double_bass"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Good_Morning_Starshine"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Trevor_Pinch"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/The_Parent_Trap_(1998_film)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/1967\u20131970"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Cannabis_(drug)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/UK_Singles_Chart"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Folk-pop"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_most-streamed_songs_on_Spotify"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Central_Park"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Counterculture_of_the_1960s"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Linda_McCartney"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Apple_Records"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Jeff_Lynne"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Steven_D._Stark"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Let_It_Roll:_Songs_by_George_Harrison"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Rock_music"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Love_(Cirque_du_Soleil)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Aquarius/Let_the_Sunshine_In"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/From_Me_Flows_What_You_Call_Time_(novella)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun_(Nina_Simone_album)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Dutch_Top_40"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bob_Dylan"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Within_You_Without_You"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Concert_for_George_(film)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Royal_Albert_Hall"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Warner_Records"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Delaney_&_Bonnie"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Flute"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Voyager_program"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Abbey_Road"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Voyager_Golden_Record"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Mike_Love"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Beware_of_Darkness_(song)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Gary_Glitter"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Capo"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Charles_Wright_(musician)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Mikal_Gilmore"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Saturday_Night_Live"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bob_Marley"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/McLemore_Avenue"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ann_Druyan"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/David_Crosby"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Eric_Clapton"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/The_Guardian"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/David_Leland"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Steve_Harley_&_Cockney_Rebel"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nicholas_Schaffner"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Syncopation"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/George_McGovern"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bee_Movie"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Concert_for_George"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/TBS_(American_TV_channel)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ringo_Starr"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/John_Lennon"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Mojo_(magazine)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Abbey_Road_Studios"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Let_It_Be_(Beatles_song)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/George_Harrison:_Living_in_the_Material_World"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Pete_Ham"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Remix"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Sgt._Pepper's_Lonely_Hearts_Club_Band_(song)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Moog_synthesizer"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Paul_McCartney"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/The_Inner_Light_(song)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/And_did_those_feet_in_ancient_time"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/MusicOMH"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Key_(music)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Joe_Brown_(singer)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Sardinia"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Martin_Scorsese"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Good_Day_Sunshine"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ivanka_Trump"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Imagine_(John_Lennon_song)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Indian_classical_music"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Clapping"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/The_Other_Side_of_Abbey_Road"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Thirty_Three_&_1/3"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Semitone"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/George_Harrison"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/John,_Paul,_George,_Ringo_..._and_Bert"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Oh!_Darling"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Opus_Eponymous"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Circus_(magazine)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Jon_Bon_Jovi"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Donald_Trump_2016_presidential_campaign"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/EMI_Records"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Jazz"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carl_Sagan"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/25th_Anniversary_Rock_and_Roll_Hall_of_Fame_Concerts"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/If_I_Needed_Someone"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/The_Concert_for_Bangladesh_(album)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Abbey_Road:_50th_Anniversary_Edition"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Manfred_Mann"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Sgt._Pepper's_Lonely_Hearts_Club_Band_(soundtrack)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Hair_(musical)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Songs_about_weather"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/File:Moog_Synthesizer_3P_(1972),_CRuNCh_Lab.jpg"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ian_MacDonald"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Record_Mirror"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Songs_about_happiness"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Alan_Clayson"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/The_Concert_for_Bangladesh"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Leslie_speaker"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/ARIA_Charts"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Cirque_du_Soleil"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Official_Charts_Company"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Rock_for_the_Rainforest"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Glam_rock"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Concert_for_George_(album)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/A-side_and_B-side"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Steve_Harley_songs"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/David_Mitchell_(author)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ewhurst,_Surrey"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Tonsillectomy"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Badfinger"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/PopMatters"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Dutch_Charts"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Greg_Kot"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:1969_songs"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/File:George-Harrison-playing_(tall_crop).jpg"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:1970_singles"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/File:Richie_Havens_1972_Hamburg.jpg"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Ghost_(Swedish_band)_songs"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/File:Ewhurst_mill.jpg"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Richie_Havens"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Nina_Simone_songs"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Paul_Simon"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Cashbox_(magazine)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/All_Things_Must_Pass"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Steve_Harley"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Pop_music"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Oz_(magazine)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Catholic_Herald"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Novella"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canadian_Singles_Chart"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Time_signature"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Elton_John"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/RPM_(magazine)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Record_World"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Songs_composed_in_A_major"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/G._K._Chesterton"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/A_major"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:EMI_Records_singles"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Rolling_Stone"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Live_in_Japan_(George_Harrison_album)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Eight_Days_a_Week"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carnegie_Hall"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Jon_Landau"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Saturday_Review_(U.S._magazine)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:George_Harrison_songs"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Peter_Tosh"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Songs_written_by_George_Harrison"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Music_published_by_Harrisongs"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Love_(Beatles_album)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Pentatonic_scale"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Pitch_control"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Inauguration_of_Joe_Biden"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Generation_Z"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/The_Prince's_Trust"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:1976_singles"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Imagine_That_(film)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/John_Masouri"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Alto_flute"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Fret"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Giles_Martin"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/The_Best_of_George_Harrison"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Kenneth_Womack"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Barry_Miles"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Time_(magazine)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Hot_Rock_&_Alternative_Songs"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Tittenhurst_Park"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/NME"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Viola"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Pump_organ"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Alan_Light"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Apple_Corps"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Flatpicking"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/I,_Me,_Mine"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Cello"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/The_Beach_Boys"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Michael_Manley"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Irish_Singles_Chart"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Vanity_Fare"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Leon_Russell"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Broadcast_Music,_Inc."
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Mike_Vickers"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/The_Beatles"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Love's_a_Prima_Donna"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Booker_T._&_the_M.G.'s"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Song_recordings_produced_by_George_Martin"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ghost_(Swedish_band)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:The_Beatles_songs"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Dhol"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Richie_Unterberger"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Sgt._Pepper's_Lonely_Hearts_Club_Band_(film)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/I_Am_Sam"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Electronic_Sound"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Strawberry_Fields_(memorial)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Moon"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Streaming_media"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/2016_Republican_National_Convention"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/George_Martin"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Can't_Blame_the_Youth"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Tabla"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/2012_Summer_Olympics"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Piccolo"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bob_Marley_and_the_Wailers"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Clarinet"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Celebrating_America"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:1971_singles"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/George_Benson"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Billboard_Hot_100"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Something_(Beatles_song)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Secondary_chord"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/ITunes"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Graham_Nash"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Esquire_(magazine)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Conan_(talk_show)"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Unleash_the_Love"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Charles_Wright_&_the_Watts_103rd_Street_Rhythm_Band"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Electric_guitar"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageLength": [
+         {
+            "type": "literal",
+            "value": "64297",
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageExternalLink": [
+         {
+            "type": "uri",
+            "value": "https://archive.org/details/beatlesforever00scha"
+         },
+         {
+            "type": "uri",
+            "value": "https://archive.org/details/beatlesanthology0000unse"
+         },
+         {
+            "type": "uri",
+            "value": "https://archive.org/details/alltogethernowfi0000cast"
+         },
+         {
+            "type": "uri",
+            "value": "https://archive.org/details/missodellmyhardd00odel"
+         },
+         {
+            "type": "uri",
+            "value": "https://archive.org/details/analogdaysinvent00trev"
+         },
+         {
+            "type": "uri",
+            "value": "https://archive.org/details/electronicexperi00holm"
+         },
+         {
+            "type": "uri",
+            "value": "https://books.google.com/books%3Fid=2j9WO1jVqdsC&pg=PT40%7Cyear=2005%7Cpublisher=HarperCollins%7Clocation=New"
+         },
+         {
+            "type": "uri",
+            "value": "https://books.google.com/books%3Fid=vDn_AgAAQBAJ&pg=PT123"
+         },
+         {
+            "type": "uri",
+            "value": "https://books.google.com/books%3Fid=Sv2KkeAwNQwC&q=%22Here+Comes+the+Sun%22"
+         },
+         {
+            "type": "uri",
+            "value": "https://archive.org/details/harrison00fine"
+         },
+         {
+            "type": "uri",
+            "value": "https://archive.org/details/rollingstoneency00holl"
+         },
+         {
+            "type": "uri",
+            "value": "http://www.thebeatles.com/song/here-comes-sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/abstract": [
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun \u2013 utw\u00f3r brytyjskiego zespo\u0142u The Beatles z albumu Abbey Road napisany przez George\u2019a Harrisona.",
+            "lang": "pl"
+         },
+         {
+            "type": "literal",
+            "value": "\u00abHere Comes the Sun\u00bb es una canci\u00f3n de la banda brit\u00e1nica de rock, The Beatles, escrita por George Harrison para el \u00e1lbum Abbey Road de 1969. Esta canci\u00f3n, junto a \u00abSomething\u00bb, es una de las m\u00e1s exitosas de las hechas por Harrison, y ambas fueron grabadas para el \u00e1lbum Abbey Road.\u200b Tuvo su g\u00e9nesis dentro de su estrecha amistad con Eric Clapton, ya que el riff y el puente de esta canci\u00f3n son similares a los de una colaboraci\u00f3n que Harrison realiz\u00f3 para el grupo Cream llamada \"Badge\". Adem\u00e1s, esta canci\u00f3n conten\u00eda un solo de guitarra que fue descartado en la mezcla final que apareci\u00f3 en Abbey Road.\u200b El a\u00f1o 1969 no fue f\u00e1cil para Harrison: fue arrestado por posesi\u00f3n de marihuana, le sacaron las am\u00edgdalas, y sali\u00f3 por un tiempo de la banda. La canci\u00f3n fue escrita mientras Harrison se encontraba lejos de todos esos problemas.",
+            "lang": "es"
+         },
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun \u00e9 uma can\u00e7\u00e3o dos Beatles composta por George Harrison, que foi lan\u00e7ada no \u00e1lbum Abbey Road de 1969. A grava\u00e7\u00e3o teve in\u00edcio em 7 de julho de 1969 e foi conclu\u00edda em 19 de agosto de 1969. Sua dura\u00e7\u00e3o \u00e9 de 3\u201906\". George Harrison canta, toca viol\u00e3o, guitarra, sintetizador moog, e bate palmas. Paul McCartney faz o coro, toca baixo, e bate palmas. Ringo Starr toca bateria e bate palmas. Por estar se recuperando de um acidente de carro, John Lennon n\u00e3o participou desta m\u00fasica. Houve tamb\u00e9m a participa\u00e7\u00e3o de instrumentos de orquestra: quatro violas, quatro violoncelos, um baixo, dois p\u00edcolos, duas flautas, duas flautas alto e duas clarinetas. Segundo George, foi \"composta numa manh\u00e3 ensolarada\" na mans\u00e3o de Eric Clapton. Como em \"If I Needed Someone\", outra composi\u00e7\u00e3o dele, um solo de guitarra soa durante toda a m\u00fasica. \u00c9 uma das can\u00e7\u00f5es mais famosas e regravadas dos Beatles, j\u00e1 ganhando at\u00e9 vers\u00e3o orquestrada de flautas.",
+            "lang": "pt"
+         },
+         {
+            "type": "literal",
+            "value": "\u00abHere Comes the Sun\u00bb (\u0430\u043d\u0433\u043b. \u00ab\u041e\u0441\u044c \u0441\u0445\u043e\u0434\u0438\u0442\u044c \u0441\u043e\u043d\u0446\u0435\u00bb) \u2014 \u043f\u0456\u0441\u043d\u044f \u0414\u0436\u043e\u0440\u0434\u0436\u0430 \u0413\u0430\u0440\u0440\u0456\u0441\u043e\u043d\u0430 \u0437 \u0430\u043b\u044c\u0431\u043e\u043c\u0443 The Beatles 1969 \u0440\u043e\u043a\u0443 \u00abAbbey Road\u00bb.",
+            "lang": "uk"
+         },
+         {
+            "type": "literal",
+            "value": "\u3008Here Comes the Sun\u3009\uc740 1969\ub144 \ube44\ud2c0\uc988\uc758 \uc74c\ubc18 \u300aAbbey Road\u300b\uc5d0\uc11c \ucc98\uc74c \ubc1c\ub9e4\ub41c \uc870\uc9c0 \ud574\ub9ac\uc2a8\uc774 \uc4f4 \ub178\ub798\uc774\ub2e4. \u3008Something\u3009\uacfc \u3008While My Guitar Gently Weeps\u3009\uc640 \ud568\uaed8, \uadf8\uac83\uc740 \ube44\ud2c0\uc988 \uc2dc\ub300\uc758 \ud574\ub9ac\uc2a8\uc758 \uac00\uc7a5 \uc720\uba85\ud55c \uc791\ud488 \uc911 \ud558\ub098\uc774\ub2e4. \uc774 \uace1\uc740 \ud574\ub9ac\uc2a8\uc774 \ube44\ud2c0\uc988\uc758 \uc560\ud50c \ucf54\uc5b4\uc5d0\uc11c \uc5f4\ub9ac\ub294 \ud68c\uc758\uc5d0 \ucc38\uc11d\ud558\uc9c0 \uc54a\uae30 \uc704\ud574 \uadf8\ub0a0 \ubb34\ub2e8 \uacb0\uc11d\uc744 \ud55c \uce5c\uad6c \uc5d0\ub9ad \ud074\ub7a9\ud2bc\uc758 \uc2dc\uace8 \uc9d1\uc5d0\uc11c \uc791\uace1\ub418\uc5c8\ub2e4. \uac00\uc0ac\ub294 \ubd04\uc758 \ub3c4\ucc29\uacfc \uadf8\uac00 \ubc34\ub4dc\uc758 \uc0ac\uc5c5 \ubb38\uc81c\ub85c \uacaa\uc5c8\ub358 \uc77c\uc2dc\uc801 \ud734\uc2dd\uacfc \uc548\ub3c4\uac10\uc744 \ubc18\uc601\ud55c\ub2e4. 2019\ub144 9\uc6d4 \ud604\uc7ac \uc804 \uc138\uacc4\uc5d0\uc11c \uac00\uc7a5 \ub9ce\uc774 \uc2a4\ud2b8\ub9ac\ubc0d\ub41c \ube44\ud2c0\uc988 \uace1\uc73c\ub85c 3\uc5b5 5\ucc9c\ub9cc \uace1\uc774 \ub118\ub294\ub2e4. \ube44\ud2c0\uc988\ub294 1969\ub144 \uc5ec\ub984\uc5d0 \ub7f0\ub358\uc758 EMI \uc2a4\ud29c\ub514\uc624\uc5d0\uc11c \u3008Here Comes the Sun\u3009\ub97c \ub179\uc74c\ud588\ub2e4. \ud574\ub9ac\uc2a8\uc758 \uc5b4\ucfe0\uc2a4\ud2f1 \uae30\ud0c0\uac00 \uc774\ub044\ub294 \uc774 \ub179\uc74c\uc5d0\ub294 \uce98\ub9ac\ud3ec\ub2c8\uc544\uc5d0\uc11c \uc545\uae30\uc758 \ucd08\uae30 \ubaa8\ub378\uc744 \uad6c\uc785\ud55c \ud6c4 \ube44\ud2c0\uc988 \uc0ac\uc6b4\ub4dc\uc5d0 \ub3c4\uc785\ud55c \ubaa8\uadf8 \uc2e0\uc2dc\uc0ac\uc774\uc800\ub3c4 \ud3ec\ud568\ub418\uc5b4 \uc788\ub2e4. \ud574\ub9ac\uc2a8\uc758 \uae00\uc5d0 \ub300\ud55c \uc778\ub3c4 \uace0\uc804 \uc74c\uc545\uc758 \uacc4\uc18d\ub418\ub294 \uc601\ud5a5\uc744 \ubc18\uc601\ud558\uc5ec, \uc774 \uc791\uace1\uc5d0\ub294 \uc77c\ub828\uc758 \ud2b9\uc774\ud55c \uc2dc\uac04 \ubcc0\ud654\uac00 \ud3ec\ud568\ub418\uc5b4 \uc788\ub2e4. \u3008Here Comes the Sun\u3009\uc740 \uc74c\uc545 \ud3c9\ub860\uac00\ub4e4\ub85c\ubd80\ud130 \uac08\ucc44\ub97c \ubc1b\uc558\ub2e4. \u3008Something\u3009\uc774\ub77c\ub294 \u300aAbbey Road\u300b\uc5d0 \ub300\ud55c \uadf8\uc758 \ub2e4\ub978 \uacf5\ud5cc\uacfc \uacb0\ud569\ud558\uc5ec \ud574\ub9ac\uc2a8\uc5d0\uac8c\ub294 \uc774\uc804\uc5d0 \uadf8\uc758 \ubc34\ub4dc \ub3d9\ub8cc\uc778 \uc874 \ub808\ub17c\uacfc \ud3f4 \ub9e4\uce74\ud2b8\ub2c8\ub97c \uc704\ud574 \uc608\uc57d\ub418\uc5c8\ub358 \uc791\uace1\uac00\ub85c\uc11c\uc758 \uc778\uc9c0\ub3c4\uac00 \ub192\uc544\uc84c\ub2e4. \ud574\ub9ac\uc2a8\uc740 1971\ub144 \ucf58\uc11c\ud2b8 \ud3ec \ubc29\uae00\ub77c\ub370\uc2dc\uc5d0\uc11c\uc758 \ub77c\uc774\ube0c \uacf5\uc5f0\uacfc 1976\ub144 \u300a\uc0c8\ud130\ub370\uc774 \ub098\uc774\ud2b8 \ub77c\uc774\ube0c\u300b \uacf5\uc5f0\uc5d0\uc11c \ud3f4 \uc0ac\uc774\uba3c\uacfc \ud568\uaed8 \ud558\ub294 \ub4f1 \ube44\uad50\uc801 \ub4dc\ubb38 \uc194\ub85c \uac00\uc218\ub85c\uc11c\uc758 \ub77c\uc774\ube0c \uacf5\uc5f0\uc5d0\uc11c \uc774 \uace1\uc744 \uc5f0\uc8fc\ud588\ub2e4. \ub9ac\uce58 \ud5e4\uc774\ube10\uc2a4\uc640 \uc740 \uac01\uac01 1970\ub144\ub300\uc5d0 \u3008Here Comes the Sun\u3009\uc73c\ub85c \uc2f1\uae00 \uc74c\ubc18\uc744 \ub0c8\ub2e4.",
+            "lang": "ko"
+         },
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun est une chanson des Beatles. Elle a \u00e9t\u00e9 \u00e9crite par George Harrison et ouvre la face B du 33 tours original de l\u2019album Abbey Road sorti en 1969. Il s'agit d'une de ses compositions les plus connues au sein des Beatles. Harrison \u00e9crit la chanson au d\u00e9but de l'ann\u00e9e 1969 dans la maison de campagne de son ami Eric Clapton, o\u00f9 il se trouve apr\u00e8s avoir d\u00e9cid\u00e9 d'\u00e9chapper \u00e0 une r\u00e9union d'affaires de Apple Corps. Les paroles de la chanson refl\u00e8tent son soulagement \u00e0 l'arriv\u00e9e du printemps et le r\u00e9pit temporaire qu'il s'accorde loin des affaires du groupe. En septembre 2019, c'est la chanson des Beatles et des ann\u00e9es 1960 la plus diffus\u00e9e en streaming au Royaume-Uni, avec plus de 50 millions d'\u00e9coutes. Les Beatles enregistrent Here Comes the Sun aux studios EMI de Londres \u00e0 l'\u00e9t\u00e9 1969. Men\u00e9 par la guitare acoustique de Harrison, le morceau est parsem\u00e9 de notes d'un synth\u00e9tiseur Moog, qu'il a introduit dans le son du groupe pour cet album, apr\u00e8s avoir acquis un premier mod\u00e8le de l'instrument chez son concepteur en Californie. Refl\u00e9tant l'influence continue de la musique classique indienne sur l'\u00e9criture de Harrison, la composition comprend plusieurs changements de signature rythmique. Here Comes the Sun a \u00e9t\u00e9 particuli\u00e8rement bien re\u00e7u par le public et la critique. Avec son autre contribution \u00e0 Abbey Road, Something, Harrison gagne la reconnaissance en tant qu'auteur-compositeur qui avait \u00e9t\u00e9 auparavant r\u00e9serv\u00e9e \u00e0 ses camarades John Lennon et Paul McCartney. Harrison joue la chanson lors de plusieurs de ses concerts, en tant qu'artiste solo, notamment au Concert pour le Bangladesh en 1971 et, avec Paul Simon, lors de son apparition au Saturday Night Live en 1976. Richie Havens ainsi que Steve Harley and Cockney Rebel ont rencontr\u00e9 le succ\u00e8s en avec leurs reprises sur single de Here Comes the Sun dans les ann\u00e9es 1970. Nina Simone, George Benson, Booker T. & the M.G.'s, Peter Tosh et Joe Brown sont parmi les nombreux autres artistes qui ont repris la chanson.",
+            "lang": "fr"
+         },
+         {
+            "type": "literal",
+            "value": "\u300aHere Comes the Sun\u300b\u662f\u7531\u82f1\u570b\u6416\u6efe\u6a02\u5718\u62ab\u982d\u56db\u6210\u54e1\u55ac\u6cbb\u00b7\u54c8\u91cc\u68ee\u5275\u4f5c\u3001\u6536\u9304\u65bc\u5c08\u8f2f\u300a\u827e\u6bd4\u8def\u300b\u76841969\u5e74\u6b4c\u66f2\u3002",
+            "lang": "zh"
+         },
+         {
+            "type": "literal",
+            "value": "\"Here Comes the Sun\" adalah lagu yang ditulis oleh George Harrison untuk album The Beatles tahun 1969, Abbey Road.",
+            "lang": "in"
+         },
+         {
+            "type": "literal",
+            "value": "\u0647\u0627 \u0642\u062f \u0623\u0634\u0631\u0642\u062a \u0627\u0644\u0634\u0645\u0633 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Here comes the sun)\u200f. \u0623\u063a\u0646\u064a\u0629 \u0644\u0641\u0631\u0642\u0629 \u0627\u0644\u0628\u064a\u062a\u0644\u0632 \u0627\u0644\u0628\u0631\u064a\u0637\u0627\u0646\u064a\u0629. \u062a\u0639\u062a\u0628\u0631 \u0645\u0646 \u0623\u0634\u0647\u0631 \u0623\u063a\u0627\u0646\u064a \u0641\u0631\u0642\u0629 \u0627\u0644\u0628\u064a\u062a\u0644\u0632 \u0648\u0635\u062f\u0631\u062a \u0641\u064a \u0622\u062e\u0631 \u0623\u0644\u0628\u0648\u0645 \u0648\u0627\u0644\u0630\u064a \u0643\u0627\u0646 \u0628\u0639\u0646\u0648\u0627\u0646 Abbey Road \u0648\u0635\u062f\u0631 \u0639\u0627\u0645 1969.",
+            "lang": "ar"
+         },
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun is een lied geschreven door George Harrison van The Beatles. Here Comes the Sun verscheen in september 1969 op het album Abbey Road. Op 26 september van dat jaar werd het nummer op single uitgebracht. Destijds werd in Nederland de plaat regelmatig gedraaid op Radio Veronica, Radio Mi Amigo, Radio Caroline en Hilversum 3, maar bereikte desondanks de Nederlandse Top 40 en de Hilversum 3 Top 30 niet. In Belgi\u00eb behaalde de plaat g\u00e9\u00e9n notering in de Vlaamse Ultratop 50. Pas in november 2010 bereikte het nummer de hitlijsten in Nederland, toen het als download op iTunes beschikbaar was gekomen.",
+            "lang": "nl"
+         },
+         {
+            "type": "literal",
+            "value": "\u00abHere Comes the Sun\u00bb (\"\u0410 \u0432\u043e\u0442 \u0438 \u0441\u043e\u043b\u043d\u0446\u0435\") \u2014 \u043f\u0435\u0441\u043d\u044f \u0414\u0436\u043e\u0440\u0434\u0436\u0430 \u0425\u0430\u0440\u0440\u0438\u0441\u043e\u043d\u0430 \u0441 \u0430\u043b\u044c\u0431\u043e\u043c\u0430 The Beatles 1969 \u0433\u043e\u0434\u0430 Abbey Road. \u041e\u0434\u043d\u0430 \u0438\u0437 \u0441\u0430\u043c\u044b\u0445 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0445 \u043f\u0435\u0441\u0435\u043d \u0425\u0430\u0440\u0440\u0438\u0441\u043e\u043d\u0430, \u0437\u0430\u043f\u0438\u0441\u0430\u043d\u043d\u0430\u044f \u0432 \u0441\u043e\u0441\u0442\u0430\u0432\u0435 The Beatles.",
+            "lang": "ru"
+         },
+         {
+            "type": "literal",
+            "value": "\"Here Comes the Sun\" is a song by the English rock band the Beatles from their 1969 album Abbey Road. It was written by George Harrison and is one of his best-known compositions. Harrison wrote the song in early 1969 at the country house of his friend Eric Clapton, where Harrison had chosen to play truant for the day to avoid attending a meeting at the Beatles' Apple Corps organisation. The lyrics reflect his relief at the arrival of spring and the temporary respite he was experiencing from the band's business affairs. The Beatles recorded \"Here Comes the Sun\" at London's EMI Studios in the summer of 1969. Led by Harrison's acoustic guitar, the track features Moog synthesizer, which he had introduced to the band's sound after acquiring an early model of the instrument in California. Reflecting the continued influence of Indian classical music on Harrison's writing, the composition includes several time signature changes. \"Here Comes the Sun\" has received acclaim from music critics. Combined with his other contribution to Abbey Road, \"Something\", it gained for Harrison the level of recognition as a songwriter that had previously been reserved for his bandmates John Lennon and Paul McCartney. \"Here Comes the Sun\" was the track used to promote the fiftieth anniversary reissue of Abbey Road in 2019. It peaked at number 3 on the US Billboard Hot Rock Songs chart at that time and has since been certified double platinum for UK sales since 2010. As of 2021, it was the most streamed Beatles song on Spotify globally. Harrison played the song during many of his relatively rare live performances as a solo artist, including at the Concert for Bangladesh in 1971 and, with Paul Simon, during his appearance on Saturday Night Live in 1976. Richie Havens and Steve Harley & Cockney Rebel each had hit singles with \"Here Comes the Sun\" in the 1970s. Nina Simone, George Benson, Booker T. & the M.G.'s, Peter Tosh and Joe Brown are among the many other artists who have covered the song.",
+            "lang": "en"
+         },
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun je p\u00edse\u0148 britsk\u00e9 kapely The Beatles napsan\u00e1 Georgem Harrisonem na albu Abbey Road z roku 1969. \u201eHere Comes the Sun\u201c je vedle \u201eSomething\u201c a \u201eWhile My Guitar Gently Weeps\u201c jednou z nejzn\u00e1m\u011bj\u0161\u00edch skladeb, kterou Harrison slo\u017eil b\u011bhem p\u016fsoben\u00ed v Beatles. Rok 1969 byl pro Harrisona velice obt\u00ed\u017en\u00fd. Na\u010das opustil skupinu, byl zadr\u017een za dr\u017een\u00ed marihuany a byla mu provedena tonzilektomie. To v\u0161e spole\u010dn\u011b s neust\u00e1l\u00fdmi z\u00e1le\u017eitostmi ohledn\u011b vydavatelstv\u00ed vedlo k tomu, \u017ee Harrison nav\u0161t\u00edvil sv\u00e9ho p\u0159\u00edtele Erica Claptona a v jeho zahrad\u011b napsal pr\u00e1v\u011b \u201eHere Comes the Sun\u201c.",
+            "lang": "cs"
+         },
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun (englisch f\u00fcr \u201eHier kommt die Sonne\u201c) ist ein Lied der britischen Band The Beatles, das von George Harrison komponiert wurde. Es wurde am 26. September 1969 auf dem Album Abbey Road ver\u00f6ffentlicht. Das St\u00fcck z\u00e4hlt neben Something und My Sweet Lord zu Harrisons bekanntesten Werken.",
+            "lang": "de"
+         },
+         {
+            "type": "literal",
+            "value": "\"Here Comes the Sun\" \u00e4r en l\u00e5t skriven av George Harrison och framf\u00f6rd av den brittiska rockgruppen The Beatles. Den finns med p\u00e5 albumet Abbey Road som kom ut 1969. \"Here Comes the Sun\" gavs ut som singel den 26 september 1969.",
+            "lang": "sv"
+         },
+         {
+            "type": "literal",
+            "value": "\u300c\u30d2\u30a2\u30fb\u30ab\u30e0\u30ba\u30fb\u30b6\u30fb\u30b5\u30f3\u300d\uff08Here Comes the Sun\uff09\u306f\u3001\u30d3\u30fc\u30c8\u30eb\u30ba\u306e\u697d\u66f2\u3067\u3042\u308b\u3002\u30b8\u30e7\u30fc\u30b8\u30fb\u30cf\u30ea\u30b9\u30f3\u304c\u4f5c\u8a5e\u4f5c\u66f2\u3092\u624b\u304c\u3051\u305f\u30021969\u5e74\u306b\u767a\u58f2\u3055\u308c\u305f11\u4f5c\u76ee\u306e\u30a4\u30ae\u30ea\u30b9\u76e4\u516c\u5f0f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30a2\u30eb\u30d0\u30e0\u300e\u30a2\u30d3\u30a4\u30fb\u30ed\u30fc\u30c9\u300f\u306b\u53ce\u9332\u3055\u308c\u305f\u3002\u30cf\u30ea\u30b9\u30f3\u306f\u30011969\u5e74\u521d\u982d\u306b\u30a2\u30c3\u30d7\u30eb\u30fb\u30ec\u30b3\u30fc\u30c9\u306e\u6253\u3061\u5408\u308f\u305b\u3092\u30ad\u30e3\u30f3\u30bb\u30eb\u3057\u3066\u3001\u53cb\u4eba\u306e\u30a8\u30ea\u30c3\u30af\u30fb\u30af\u30e9\u30d7\u30c8\u30f3\u306e\u81ea\u5b85\u306b\u8a2a\u308c\u305f\u969b\u306b\u672c\u4f5c\u3092\u66f8\u3044\u305f\u3002\u6b4c\u8a5e\u306e\u4e2d\u3067\u306f\u6625\u306e\u5230\u6765\u306b\u3088\u308b\u5b89\u5835\u306a\u3069\u304c\u53cd\u6620\u3055\u308c\u3066\u3044\u308b\u3002 1969\u5e74\u590f\u306bEMI\u30b9\u30bf\u30b8\u30aa\u3067\u30ec\u30b3\u30fc\u30c7\u30a3\u30f3\u30b0\u304c\u884c\u308f\u308c\u305f\u3002\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30ae\u30bf\u30fc\u3092\u4e3b\u4f53\u3068\u3057\u305f\u672c\u4f5c\u3067\u306f\u3001\u5f53\u6642\u306f\u73cd\u3057\u304b\u3063\u305f\u30e2\u30fc\u30b0\u30fb\u30b7\u30f3\u30bb\u30b5\u30a4\u30b6\u30fc\u304c\u5c0e\u5165\u3055\u308c\u3066\u3044\u308b\u307b\u304b\u3001\u30a4\u30f3\u30c9\u306e\u4f1d\u7d71\u97f3\u697d\u306e\u5f71\u97ff\u304c\u3044\u304f\u3064\u304b\u898b\u3089\u308c\u308b\u3002 \u300c\u30d2\u30a2\u30fb\u30ab\u30e0\u30ba\u30fb\u30b6\u30fb\u30b5\u30f3\u300d\u306f\u3001\u97f3\u697d\u8a55\u8ad6\u5bb6\u304b\u3089\u80af\u5b9a\u7684\u306a\u8a55\u4fa1\u3092\u5f97\u3066\u304a\u308a\u3001\u300c\u30db\u30ef\u30a4\u30eb\u30fb\u30de\u30a4\u30fb\u30ae\u30bf\u30fc\u30fb\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9\u300d\u3084\u300c\u30b5\u30e0\u30b7\u30f3\u30b0\u300d\u3068\u3068\u3082\u306b\u3001\u30cf\u30ea\u30b9\u30f3\u304c\u30ec\u30ce\u30f3\uff1d\u30de\u30c3\u30ab\u30fc\u30c8\u30cb\u30fc\u306e\u4f5c\u54c1\u3068\u540c\u7b49\u306e\u8a55\u4fa1\u3092\u5f97\u305f\u697d\u66f2\u3068\u306a\u3063\u3066\u3044\u308b\u3002\u697d\u66f2\u306e\u767a\u8868\u5f8c\u3001\u30ea\u30c3\u30c1\u30fc\u30fb\u30d8\u30d6\u30f3\u30b9\u3084\u30b9\u30c6\u30a3\u30fc\u30f4\u30fb\u30cf\u30fc\u30ec\u30a4&\u30b3\u30c3\u30af\u30cb\u30fc\u30fb\u30ec\u30d9\u30eb\u3092\u306f\u3058\u3081\u3068\u3057\u305f\u591a\u6570\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306b\u3088\u3063\u3066\u30ab\u30d0\u30fc\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3\u304c\u767a\u58f2\u3055\u308c\u305f\u3002 2021\u5e74\u6642\u70b9\u3067\u3001Spotify\u306b\u3066\u4e16\u754c\u3067\u6700\u3082\u30b9\u30c8\u30ea\u30fc\u30df\u30f3\u30b0\u518d\u751f\u3055\u308c\u305f\u30d3\u30fc\u30c8\u30eb\u30ba\u306e\u697d\u66f2\u3068\u306a\u3063\u3066\u3044\u308b\u3002",
+            "lang": "ja"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageID": [
+         {
+            "type": "literal",
+            "value": 1329366,
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageRevisionID": [
+         {
+            "type": "literal",
+            "value": 1074005429,
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+         }
+      ],
+      "http://dbpedia.org/ontology/thumbnail": [
+         {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Thebeatles_here_comes_the_sun.jpg?width=300"
+         }
+      ],
+      "http://dbpedia.org/property/name": [
+         {
+            "type": "literal",
+            "value": "Here Comes the Sun",
+            "lang": "en"
+         }
+      ],
+      "http://dbpedia.org/property/artist": [
+         {
+            "type": "literal",
+            "value": "The Beatles",
+            "lang": "en"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Steve_Harley_&_Cockney_Rebel"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/The_Beatles"
+         },
+         {
+            "type": "literal",
+            "value": "Beatles",
+            "lang": "en"
+         }
+      ],
+      "http://dbpedia.org/ontology/runtime": [
+         {
+            "type": "literal",
+            "value": 186,
+            "datatype": "http://www.w3.org/2001/XMLSchema#double"
+         }
+      ],
+      "http://dbpedia.org/property/released": [
+         {
+            "type": "literal",
+            "value": "1976-07-30",
+            "datatype": "http://www.w3.org/2001/XMLSchema#date"
+         },
+         {
+            "type": "literal",
+            "value": "1969-09-26",
+            "datatype": "http://www.w3.org/2001/XMLSchema#date"
+         }
+      ],
+      "http://dbpedia.org/property/studio": [
+         {
+            "type": "literal",
+            "value": "EMI, London",
+            "lang": "en"
+         }
+      ],
+      "http://dbpedia.org/ontology/releaseDate": [
+         {
+            "type": "literal",
+            "value": "1969-09-26",
+            "datatype": "http://www.w3.org/2001/XMLSchema#date"
+         }
+      ],
+      "http://dbpedia.org/ontology/Work/runtime": [
+         {
+            "type": "literal",
+            "value": "3.1",
+            "datatype": "http://dbpedia.org/datatype/minute"
+         }
+      ],
+      "http://dbpedia.org/property/producer": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/George_Martin"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Steve_Harley"
+         }
+      ],
+      "http://dbpedia.org/property/region": [
+         {
+            "type": "literal",
+            "value": "United Kingdom",
+            "lang": "en"
+         },
+         {
+            "type": "literal",
+            "value": "Italy",
+            "lang": "en"
+         },
+         {
+            "type": "literal",
+            "value": "Denmark",
+            "lang": "en"
+         }
+      ],
+      "http://dbpedia.org/property/number": [
+         {
+            "type": "literal",
+            "value": 2,
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+         }
+      ],
+      "http://dbpedia.org/property/length": [
+         {
+            "type": "literal",
+            "value": "186.0",
+            "datatype": "http://dbpedia.org/datatype/second"
+         }
+      ],
+      "http://dbpedia.org/property/coverSize": [
+         {
+            "type": "literal",
+            "value": 160,
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+         }
+      ],
+      "http://dbpedia.org/ontology/album": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Abbey_Road"
+         }
+      ],
+      "http://dbpedia.org/property/bSide": [
+         {
+            "type": "literal",
+            "value": "Lay Me Down",
+            "lang": "en"
+         }
+      ],
+      "http://dbpedia.org/property/note": [
+         {
+            "type": "literal",
+            "value": "sales since 2009",
+            "lang": "en"
+         },
+         {
+            "type": "literal",
+            "value": "sales since 2010",
+            "lang": "en"
+         }
+      ],
+      "http://dbpedia.org/property/type": [
+         {
+            "type": "literal",
+            "value": "single",
+            "lang": "en"
+         }
+      ],
+      "http://dbpedia.org/property/caption": [
+         {
+            "type": "literal",
+            "value": "Sheet music cover",
+            "lang": "en"
+         }
+      ],
+      "http://dbpedia.org/ontology/recordDate": [
+         {
+            "type": "literal",
+            "value": "2019-07-07",
+            "datatype": "http://www.w3.org/2001/XMLSchema#date"
+         }
+      ],
+      "http://dbpedia.org/property/certyear": [
+         {
+            "type": "literal",
+            "value": 2020,
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+         },
+         {
+            "type": "literal",
+            "value": 2021,
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+         }
+      ],
+      "http://dbpedia.org/ontology/artist": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/The_Beatles"
+         }
+      ],
+      "http://dbpedia.org/property/accessDate": [
+         {
+            "type": "literal",
+            "value": "2021-02-01",
+            "datatype": "http://www.w3.org/2001/XMLSchema#date"
+         },
+         {
+            "type": "literal",
+            "value": "2020-10-15",
+            "datatype": "http://www.w3.org/2001/XMLSchema#date"
+         },
+         {
+            "type": "literal",
+            "value": "2021-08-13",
+            "datatype": "http://www.w3.org/2001/XMLSchema#date"
+         }
+      ],
+      "http://dbpedia.org/property/album": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Love's_a_Prima_Donna"
+         },
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Abbey_Road"
+         }
+      ],
+      "http://dbpedia.org/property/noshipments": [
+         {
+            "type": "literal",
+            "value": "true",
+            "lang": "en"
+         }
+      ],
+      "http://dbpedia.org/property/nosales": [
+         {
+            "type": "literal",
+            "value": "true",
+            "lang": "en"
+         }
+      ],
+      "http://dbpedia.org/property/award": [
+         {
+            "type": "literal",
+            "value": "Platinum",
+            "lang": "en"
+         }
+      ],
+      "http://dbpedia.org/property/relyear": [
+         {
+            "type": "literal",
+            "value": 2010,
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+         },
+         {
+            "type": "literal",
+            "value": 1969,
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+         }
+      ],
+      "http://dbpedia.org/property/streaming": [
+         {
+            "type": "literal",
+            "value": "true",
+            "lang": "en"
+         }
+      ],
+      "http://dbpedia.org/property/recorded": [
+         {
+            "type": "literal",
+            "value": "2019-07-07",
+            "datatype": "http://www.w3.org/2001/XMLSchema#date"
+         }
+      ],
+      "http://dbpedia.org/property/cover": [
+         {
+            "type": "literal",
+            "value": "Thebeatles here comes the sun.jpg",
+            "lang": "en"
+         },
+         {
+            "type": "literal",
+            "value": "Steve Harley & Cockney Rebel Here Comes the Sun 1976 Single.jpg",
+            "lang": "en"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/WJRZ-FM": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Carry_That_Weight": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Pete_Ham": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/More_Than_Somewhat_\u2013_The_Very_Best_of_Steve_Harley": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Music..._The_Air_That_I_Breathe": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/My_Happy_Place": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/What's_My_Name_(Ringo_Starr_album)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/White,_White_Dove": {
+      "http://dbpedia.org/ontology/subsequentWork": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/property/nextTitle": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Sergio_Mendes_(1975_album)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/List_of_songs_recorded_by_Paul_Simon": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Live_at_the_Isle_of_Wight_Festival_(Steve_Harley_&_Cockney_Rebel_video)": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Live_from_London_(Steve_Harley_&_Cockney_Rebel_video)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Let_It_Be_(musical)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/List_of_the_Beatles'_instruments": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Here_Comes_the_Sun_(Nina_Simone_album)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Yuna_(singer)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Give_Me_Love_(Give_Me_Peace_on_Earth)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Not_Guilty_(song)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Paul_Simon_discography": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Inner_Light_(song)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/List_of_musical_works_in_unusual_time_signatures": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Cockney_Rebel_\u2013_A_Steve_Harley_Anthology": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Harrison_on_Harrison": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Songs_from_the_Material_World:_A_Tribute_to_George_Harrison": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Meets_the_Beatles": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/James_Last_Orchestra": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Jon_Bon_Jovi": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/25th_Anniversary_Rock_and_Roll_Hall_of_Fame_Concerts": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/List_of_performances_on_Top_of_the_Pops": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Idol_Poland_(season_3)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/A_Reality_Tour": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Homeward_Bound_(Simon_&_Garfunkel_song)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/McLemore_Avenue": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/STS-127": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Only_a_Northern_Song": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Love_(Cirque_du_Soleil)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Cloud_Nine_(George_Harrison_album)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Other_Side_of_Abbey_Road": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Sing_(Gary_Barlow_&_The_Commonwealth_Band_album)": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Abbey_Road:_50th_Anniversary_Edition": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Maskis_Laulja": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/KJOC_(FM)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/List_of_songs_recorded_by_George_Harrison": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/George_Harrison_discography": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Coco_(album)": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/List_of_songs_in_Glee_(season_5)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Love,_Love,_Love_(Glee)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Beatles_Box": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/List_of_Beat_Bugs_episodes": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/List_of_songs_in_The_Beatles:_Rock_Band": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Long,_Long,_Long": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Alexander_Gamelin": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/42_(Doctor_Who)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Dark_Horse_(George_Harrison_song)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Travis_discography": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Abbey_Load": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/CHOM-FM": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Triple_J_Hottest_100,_2021": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Greatest_Hits_(Steve_Harley_and_Cockney_Rebel_album)": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Isle_of_Wight_Festival_1970": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Ringo_Rama": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/2013_in_American_music": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Gary_Barlow_discography": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Dancing_with_the_Stars_(American_season_23)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Both_Sides_Now_(Marina_Prior_album)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/List_of_songs_recorded_by_Ghost": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/List_of_songs_recorded_by_Travis": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/James_Taylor_discography": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Beatles_Ballads": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Island_of_Dr._Trombone": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Kaleidoscope_Eyes:_Music_of_the_Beatles": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Paul_Simon": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Cultural_impact_of_the_Beatles": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Additive_rhythm_and_divisive_rhythm": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Mellow_Dubmarine": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Artistically_Beatles": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Here_Comes_the_Sun_(Rachael_Leahcar_album)": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Cream_of_Steve_Harley_&_Cockney_Rebel": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Best_of_Steve_Harley_and_Cockney_Rebel": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Make_Me_Smile_\u2013_The_Best_of_Steve_Harley_and_Cockney_Rebel": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Sgt._Pepper's_Lonely_Hearts_Club_Band_(film)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Night_That_Changed_America:_A_Grammy_Salute_to_the_Beatles": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/All_Things_Must_Pass": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Badfinger": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Concert_for_Bangladesh": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/List_of_UK_top-ten_singles_in_1976": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Run_of_the_Mill_(George_Harrison_song)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Sgt._Pepper's_Lonely_Hearts_Club_Band_(soundtrack)": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Singers_and_Songwriters_(Time-Life_Music)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Big_Mountain_(band)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/1930_in_music": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Gary_Glitter": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Overboard_(a_cappella)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/American_Idol_(season_7)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/John,_Paul,_George,_Ringo_..._and_Bert": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Beatles_Tapes_from_the_David_Wigg_Interviews": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Djesse_Vol._2": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Good_Day_Sunshine": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Opus_Eponymous": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Tina_in_the_Sky_with_Diamonds": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Voice_of_Poland_(season_4)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Donald_Trump_2016_presidential_campaign": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Woodstock_'79": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Four_for_McGovern": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/KPFT": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Wonder_Years": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Beatles:_Rock_Band": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Beatles_Anthology_(TV_series)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/All_Things_Must_Pass_(song)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/For_You_Blue": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Concert_for_George": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Abbey_Road": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/1967\u20131970": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Celebrating_America": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Bailando_2021": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/List_of_songs_recorded_by_Steve_Harley": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Point_of_No_Return_(1993_film)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/KGON": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/(I_Believe)_Love's_a_Prima_Donna": {
+      "http://dbpedia.org/ontology/previousWork": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/property/prevTitle": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/As_It_Happens...": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Imagine_That_(film)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Miracles_from_Heaven_(film)": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Chris_Arpad": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/What_Is_Life": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Taiyo_(album)": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/American_Idol_(season_10)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Colbie_Caillat": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Musicians_who_oppose_Donald_Trump's_use_of_their_music": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Janet_Robin": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Masked_Singer_Brasil_(season_1)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Dancing_with_the_Stars_(American_season_30)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Dark_Horse_(George_Harrison_album)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/That's_the_Way_It_Goes_(George_Harrison_song)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Colour_My_World_(Petula_Clark_song)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/List_of_songs_recorded_by_the_Beatles": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Six-String_Soldiers": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/So_Sad": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/List_of_songs_recorded_by_Motion_City_Soundtrack": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Jacob_Collier": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/STS-116": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/STS-97": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/STS-99": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Dawn_Penn": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Thia_Megia": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Voice_(Australian_season_6)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/List_of_people_who_performed_on_Beatles_recordings": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Through_the_Storm_(Riot_album)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Here_Comes_Everybody_(album)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/In_Their_Lives:_Great_Writers_on_Great_Beatles_Songs": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Idool_2007": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Songs_of_Joy_&_Peace": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/James_Taylor_at_Christmas": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Voice_of_Poland_(season_11)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/In_My_Life_(George_Martin_album)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Hurt_Wood_Mill,_Ewhurst": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/UHQCD_The_First_Best_Selection_'93~'99": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Beatles_Complete_On_Ukulele": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Louise_Dearman": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/List_of_songs_recorded_by_Demi_Lovato": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Young_and_Wild_(album)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Steve_Harley_discography": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Politicians": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/George_Harrison\u2013Eric_Clapton_1991_Japanese_Tour": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/WSNY": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Yura_Min": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Fine_as_Wine_Instrumentals": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/X_Factor_(Danish_season_14)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Very_Best_of_Nina_Simone": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Something_(Beatles_song)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/1971_in_music": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Nick_Cave": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Brooke_White": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/George_Benson": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Love's_a_Prima_Donna": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Best_of_George_Harrison": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Thirty_Three_&_1/3": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Steve_Harley_&_Cockney_Rebel": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Citizen_Smith": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Gordon_Giltrap": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Voice_Portugal_(season_1)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Here_Comes_the_Sun_(disambiguation)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageDisambiguates": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Straight_Up_(Badfinger_album)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Deep_Blue_(song)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Barbara_Dickson_discography": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Beatles_Concerto": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Never_Without_You": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Concert_for_Bangladesh_(film)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Sun_King_(song)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/If_I_Needed_Someone": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Richie_Havens": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Steve_Harley": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/I_Am_Sam_(soundtrack)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/While_My_Guitar_Gently_Weeps": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Ringo_Starr_&_His_All-Starr_Band": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Womack_&_Womack": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Beat_Bugs": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/S.T.S.": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Contents_of_the_Voyager_Golden_Record": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Everest_(1998_film)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Harrisongs": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Charles_Wright_&_the_Watts_103rd_Street_Rhythm_Band": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Greenwich_Time_Signal": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Local_on_the_8s": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Raquel!_(TV_program)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/A_Walk_Down_Abbey_Road": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Love_(Beatles_album)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/You_Never_Give_Me_Your_Money": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Sharon_Forrester": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Live_in_Japan_(Rockapella_album)": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Jana_Kramer": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Vanya_and_Sonia_and_Masha_and_Spike": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Gary_Barlow": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Billboard_Year-End_Hot_100_singles_of_1971": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/2016_Republican_National_Convention": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Stephanie_Miller_Show": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Phish_concert_tours_and_festivals": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/KTWV": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Choir!_Choir!_Choir!": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/WRFF": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Paul_Sills'_Story_Theatre": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Sheryl_Crow_discography": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Music_for_Our_Mother_Ocean": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Israel_in_the_Eurovision_Song_Contest_2019": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Alarm_Clock_(album)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/List_of_songs_recorded_by_Gary_Barlow": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/property/song": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Sheryl_Crow": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Ivanka_Trump": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/2012_Summer_Olympics_closing_ceremony": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Colbie_Caillat_discography": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Motion_City_Soundtrack_discography": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Songbird_(Marina_Prior_box_set)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Remixed_and_Reimagined_(Nina_Simone_album)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Here_Comes_the_Moon": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Future_Library_project": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Yuna_discography": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Sounds_of_the_Seventies_(Time-Life_Music)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Concert_for_George_(album)": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Joe_Brown_(singer)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Beatles_discography": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Dodie_Clark_discography": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Chris_de_Burgh_discography": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Voyager_Golden_Record": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Now_That's_What_I_Call_Music_\u2013_The_Summer_Album": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/List_of_cover_versions_of_Beatles_songs": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Voice_of_Germany_(season_10)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Voice_of_Poland_(season_5)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Fab_Four_(tribute)": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Long_Play_Album": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Nina_Simone_discography": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Concert_for_Bangladesh_(album)": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Glee_Sings_the_Beatles": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Angela_McCluskey": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Flaming_Schoolgirls": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Detours_(Sheryl_Crow_album)": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Moog_synthesizer": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/George_Harrison_(album)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Faster_(George_Harrison_song)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_BBC_Sessions_(Belle_and_Sebastian_album)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/X_Factor_(Danish_season_4)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/We_Five": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Dodie_(singer)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/George_Fest": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/The_Apple_Years_1968\u201375": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Beware_of_Darkness_(song)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Smilin'": {
+      "http://dbpedia.org/property/title": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Here_Comes_The_Sun": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageRedirects": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Here_Comes_the_Sun_(Beatles_song)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageRedirects": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Here_Comes_the_Sun_(The_Beatles_song)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageRedirects": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Here_Comes_the_Sun_(song)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageRedirects": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Here_comes_the_sun": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageRedirects": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Hcts": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ],
+      "http://dbpedia.org/ontology/wikiPageRedirects": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   },
+   "http://dbpedia.org/resource/Charles_Wright_(musician)": {
+      "http://dbpedia.org/ontology/wikiPageWikiLink": [
+         {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Here_Comes_the_Sun"
+         }
+      ]
+   }
+}
