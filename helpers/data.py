@@ -72,5 +72,5 @@ def inject(name: str, title=None, released=None, artist=None, album=None):
         audiofile.tag.artist = artist
     if album is not None:
         audiofile.tag.album = album
-        
+
     audiofile.tag.save()
