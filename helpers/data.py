@@ -1,11 +1,11 @@
 import pytube
 import os
 import asyncio
-from sanitize_filename import sanitize
 import eyed3
+from secrets import token_hex as id
 
 
-async def download(url: str, filename=None, filepath=None, filetype="mp3") -> int:
+async def download(url: str, filetype="mp3") -> int:
     """
     Download audio of youtube video and automaticaly inject metadata.
 
@@ -22,6 +22,8 @@ async def download(url: str, filename=None, filepath=None, filetype="mp3") -> in
     def fetch():
         """Download and convert youtube file. This function is blocking."""
 
+        filename = filename = id(16)
+
         # fetch youtube file
         stream = pytube.YouTube(url)
         stream = stream.streams.filter(only_audio=True)
@@ -30,7 +32,6 @@ async def download(url: str, filename=None, filepath=None, filetype="mp3") -> in
         stream = sorted(stream, key=lambda stream: stream.bitrate, reverse=True)
         stream = stream[0]
         stream.type = stream.mime_type.split("/")[1]
-        filename = f"{sanitize(stream.title)}.{stream.type}"
 
         # download youtube file
         stream.download(filename=f"{filename}.{stream.type}")
@@ -41,25 +42,14 @@ async def download(url: str, filename=None, filepath=None, filetype="mp3") -> in
         )
 
         # remove unconverted format
-        os.remove(f"{filename}.{stream.type}")  # remove unconverted mp4
+        os.remove(f"{filename}.{stream.type}")  # remove unconverted file
 
-        return filename
+        return f"{filename}.{filetype}"
 
-    prename = await asyncio.to_thread(fetch)
-    
-    filename = sanitize(filename)
-    try:
-        if filepath is None:
-            os.rename(f"{prename}.{filetype}", f"{filename}.{filetype}")
-        else:
-            os.rename(f"{prename}.{filetype}", f"{filepath}/{filename}.{filetype}")
-    except:
-        pass
-
-    return f"{filepath}/{filename}.{filetype}"
+    return await asyncio.to_thread(fetch)
 
 
-def inject(name: str, title=None, artist=None, album=None):
+def inject(name: str, title=None, released=None, artist=None, album=None):
     """
     Inject metadata into mp3 audiofile.
 
@@ -68,14 +58,19 @@ def inject(name: str, title=None, artist=None, album=None):
         artist (str, optional): Song artist. Defaults to not inject any artist.
         album (str, optional): Song album. Defaults to not inject any album.
     """
+
     if ".mp3" not in name:
         name = name + "mp3"
         
     audiofile = eyed3.load(name)
+
     if title is not None:
         audiofile.tag.title = title
+    if released is not None:
+        audiofile.tag.original_release_date = released
     if artist is not None:
         audiofile.tag.artist = artist
     if album is not None:
         audiofile.tag.album = album
+        
     audiofile.tag.save()

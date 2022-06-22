@@ -1,8 +1,6 @@
 import asyncio
 import helpers
-import logging
-
-# https://www.youtube.com/playlist?list=PLycVTiaj8OI80AsTGjYJAPi7-i8kTH-Bq
+import os
 
 
 async def main():
@@ -15,37 +13,33 @@ async def main():
     videos = {}  # url:metadata
     for url in urls:
         title = helpers.locate.name(url)
-        title = title[:title.find("(")]
-        videos[url] = asyncio.create_task(helpers.locate.metadata(title, max_hits=1))
-    await asyncio.gather(*tuple(videos[video] for video in videos.keys()))
-    
-    # choose first result for metadata
+        if "(" in title:
+            title = title[: title.find("(")]
+        videos[url] = asyncio.create_task(
+            helpers.locate.metadata(title + " song", max_hits=1)
+        )
+    await asyncio.wait(videos.values())
     for url in videos:
-        videos[url] = videos[url].result()
-        if len(videos[url]) > 0:
-            videos[url] = videos[url][0]
+        result = videos[url].result()
+        if result is not None:
+            videos[url] = result[0]
         else:
-            videos[url] = {"title": helpers.locate.name(url), "artist": None, "album": None}
+            videos[url] = {"title":helpers.locate.name(url), "artist": None, "released": None, "album": None}
+        
+    downloads = []
+    for url, metadata in videos.items():
+        downloads.append([asyncio.create_task(helpers.data.download(url)), metadata])
+    await asyncio.wait([download[0] for download in downloads])
 
-    # queue tasks to download all videos
-    tasks = []
-    for url in videos:
-        tasks.append(helpers.data.download(url, filename=videos[url]["title"], filepath="output"))
-    await asyncio.gather(*tasks)
-
-    # inject metadata into items
-    tasks = []
-    for url in videos:
-        try:
-            if videos[url] is not None:
-                helpers.data.inject(
-                    "output/"+videos[url]["title"]+".mp3",
-                    title=videos[url]["title"],
-                    artist=videos[url]["artist"],
-                    album=videos[url]["album"],
-                )
-        except:
-            pass
+    for filename, metadata in downloads:
+        filename = filename.result()
+        helpers.data.inject(
+            filename,
+            artist=metadata["artist"],
+            released=metadata["released"],
+            album=metadata["album"],
+        )
+        os.rename(filename, f"output/{metadata['title']}.mp3")
 
 
 asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
