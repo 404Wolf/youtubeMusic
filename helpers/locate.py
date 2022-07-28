@@ -90,7 +90,10 @@ async def metadata(query: str, max_hits=3) -> list:
                     resp = await resp.json()
                 except aiohttp.client_exceptions.ContentTypeError:
                     continue
-                resp = resp[f"http://dbpedia.org/resource/{hit}"]
+                try:
+                    resp = resp[f"http://dbpedia.org/resource/{hit}"]
+                except:
+                    return None
 
             data = {
                 "title": "http://dbpedia.org/property/name",
